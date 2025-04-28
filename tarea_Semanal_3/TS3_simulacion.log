@@ -1,0 +1,23 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Cosas del Colegio\Mis cosas\Facu\UTN 2025\TC2\JupyterNotebook\tarea_Semanal_3\TS3_simulacion.asc
+Start Time: Mon Apr 28 13:00:04 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Total elapsed time: 0.036 seconds.
+
