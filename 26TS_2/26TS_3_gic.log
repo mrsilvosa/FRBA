@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
-Circuit: Z:\home\mrsilvosa\Personal\Martin\TC2\JupyterNotebook\26TS_2\26TS_3.net
-Start Time: Fri Jun  5 16:30:40 2026
+Circuit: Z:\home\mrsilvosa\Personal\Martin\TC2\JupyterNotebook\26TS_2\26TS_3_gic.net
+Start Time: Fri Jun  5 16:34:33 2026
 solver = Normal
 Maximum thread count: 2
 tnom = 27
@@ -8,9 +8,9 @@ temp = 27
 method = trap
 .OP point found by inspection.
 .OP point found by inspection.
-Total elapsed time: 0.205 seconds.
+Total elapsed time: 0.204 seconds.
 
 Files loaded:
-Z:\home\mrsilvosa\Personal\Martin\TC2\JupyterNotebook\26TS_2\26TS_3.net
+Z:\home\mrsilvosa\Personal\Martin\TC2\JupyterNotebook\26TS_2\26TS_3_gic.net
 C:\users\mrsilvosa\AppData\Local\LTspice\lib\sub\opamp.sub
 
